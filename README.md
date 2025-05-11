@@ -1,9 +1,13 @@
 =================================================================
-                         # PORTFOLIO-STATICO
+                         PORTFOLIO-STATICO
 =================================================================
 Mini sito portfolio personale con 3 pagine
 -----------------------------------------------------------------
 📂 Struttura del programma
+-----------------------------------------------------------------
+Nome: Luigi
+Versione: 1.0
+-----------------------------------------------------------------
 - 3 pagine HTML:
 /portfolio-statico
 |
@@ -12,3 +16,5 @@ Mini sito portfolio personale con 3 pagine
 |- contact.html -> Contatti
 |__ style.css
 ---------------------------------------------------------------
+Versione: 1.1
+- javascript.js
