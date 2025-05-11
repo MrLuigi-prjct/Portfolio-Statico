@@ -16,9 +16,9 @@ Versione: 1.0
 |- contact.html -> Contatti
 |__ style.css
 ==========================================================================
-           OBIETTIV: AGGIUNGERRE JAVASCRIPT AL SITO STATICO
+           OBIETTIVo: AGGIUNGERRE JAVASCRIPT AL SITO STATICO
 ==========================================================================
-Versione: 1.1
+Versione: 2
 - javascript.js
 1. Un pulsante nella home che mostra un messaggio di benvenuto (alert)
 2. Un form di contatto con validazione base (senza invio reale)
