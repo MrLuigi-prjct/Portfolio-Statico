@@ -16,7 +16,7 @@ Versione: 1.0
 |- contact.html -> Contatti
 |__ style.css
 ==========================================================================
-           OBIETTIVo: AGGIUNGERRE JAVASCRIPT AL SITO STATICO
+           OBIETTIVO: AGGIUNGERRE JAVASCRIPT AL SITO STATICO
 ==========================================================================
 Versione: 2
 - javascript.js
