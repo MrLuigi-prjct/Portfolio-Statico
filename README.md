@@ -10,4 +10,5 @@ Mini sito portfolio personale con 3 pagine
 |- index.html   -> Home
 |- about.html   -> Chi sono
 |- contact.html -> Contatti
+|__ style.css
 ---------------------------------------------------------------
